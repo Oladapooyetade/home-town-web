@@ -1,0 +1,1 @@
+Home town website. A practice exercise from Scrimba fullstack youtube video tutorial.
