@@ -1,1 +1,1 @@
-Home town website. A practice exercise from Scrimba fullstack youtube video tutorial.
+Home town website. Solo exercise. A practice exercise from Scrimba fullstack youtube video tutorial.
